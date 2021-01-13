@@ -1,3 +1,3 @@
-#### Values JS
+#### Generate shades
 
-[values.js](https://github.com/noeldelgado/values.js)
+generates 20 shades of the color provided in Hex format
